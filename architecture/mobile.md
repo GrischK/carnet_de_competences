@@ -7,6 +7,7 @@
 ## 🎓 J'ai compris et je peux expliquer
 
 - les différences entre les webapps, les applications hybrides et natives ✔️
+
   Les webapps sont des applications accessibles via un navigateur web, développées avec des technologies web standard telles que HTML, CSS, Javascript. Elles sont multiplateformes, faciles à mettre à jour. Les Web apps utilisent des API mises à disposition par le W3C, comme par exemple la caméra, le GPS, les notifications Push. Cependant elles peuvent avoir des limitations d'accès aux fonctionnalités du périphérique et des performances moins bonnes que les applications natives.
 
   Les applications hybrides combinent des éléments des Web apps et des applications natives. Elles offrent une approche rapide et multiplateforme. comme les Web apps, elles peuvent avoir des performances légèrement inférieures et un accès limité à certaines fonctionnalités du périphérique.  
@@ -18,6 +19,7 @@
   Lors de la compilation de l'application, le code JavaScript est inclus avec le runtime React Native dans un package d'installation. Ce package est installé sur le téléphone de l'utilisateur. Au lancement de l'application, le runtime React Native charge le code JavaScript et l'exécute.
 
 - quelles sont les différentes technologies (frameworks) existantes pour développer des apps mobiles ✔️
+
   * React Native : Framework basé sur JavaScript et React, permet de créer des applications pour iOS et Android en partageant une grande partie du code.
   * NativeScript : Framework open source pour le développement d'applications mobiles natives pour iOS et Android en utilisant JavaScript, TypeScript ou Angular.
   * Ionic : Framework basé sur les technologies web (HTML, CSS, JavaScript), permet de créer des applications mobiles pour iOS, Android et des applications web progressives.
@@ -25,6 +27,7 @@
   * Xamarin : Framework basé sur C# et .NET, permet de développer des applications mobiles pour iOS, Android et Windows permettant de partager le code entre les plateformes.
   
 - quels sont les principaux points d'attention entre le développement d'une app mobile ou desktop ✔️
+
   Pour une application mobile : 
   * S'adapter aux interactions tactiles
   * Respecter les directives de conception de chaque plateforme

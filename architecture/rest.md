@@ -7,6 +7,7 @@
 ## 🎓 J'ai compris et je peux expliquer
 
 - les verbes HTTP ✔️
+
   Les verbes HTTP indiquent le type d'action que l'on souhaite réaliser avec nos données. Les verbes les plus répandus
   sont :
     * GET : recevoir des données
@@ -16,6 +17,7 @@
     * DELETE : supprimer des données
 
 - les statuts HTTP ✔️
+
   C'est un code numérique qui permet d'indiquer le statut de la réponse à une requête.
     * De 100 à 199 : réponse informative
     * De 200 à 299 : réponse de succès
@@ -24,16 +26,19 @@
     * De 500 à 599 : erreur du serveur
 
 - les endpoints ✔️
+
   Il s'agit des routes d'une API accessibles. Ils fournissent l'emplacement d'une donnée sur le serveur via une URI afin
   que le client puisse interagir avec le serveur.
 
 - CORS ✔️
+
   Signifie : Cross-Origin Resource Sharing. C'est un mécanisme qui permet d'échanger des fichiers entre domaines
   différents par le biais des en têtes HTTPS.
   Par exemple, la communication entre le front et le back sera bloquée si elles ne partagent pas le même hôte / port. Il
   faudra autoriser les requêtes au niveau du back.
 
 - la nomenclature recommandée pour les routes ✔️
+
   Il existe quelques bonnes pratiques couramment utilisées pour nommer les routes REST :
 
     * Utiliser des noms intuitifs et simples.
@@ -108,6 +113,7 @@ Description : Projet de soutenance pour le Titre de Développeur Web et Web Mobi
 ## 🌐 J'utilise des ressources
 
 ### Titre
+
 - [developper mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 - Documentation de Developper Mozilla
 - [tutoriel](https://www.digitalocean.com/community/tutorials/build-a-restful-api-using-node-and-express-4)
