@@ -8,7 +8,7 @@
 
 - les différences avec l'architecture monolithique ❌ / ✔️
 - la communication asynchrone entre services ❌ / ✔️
-- le deploiement d'un cluster ❌ / ✔️
+- le déploiement d'un cluster ❌ / ✔️
 
 
 ## 💻 J'utilise
@@ -40,19 +40,9 @@ Description :
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
-
-Description:
-
-Plan d'action : (à valider par le formateur)
-
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
-
-Résolution :
+### Point de blocage ✔️
 
 ## 📽️ J'en fais la démonstration
 
 - J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai fait une [présentation](...) ✔️
