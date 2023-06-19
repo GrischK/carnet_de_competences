@@ -96,7 +96,7 @@ Pour utiliser nodemon par exemple, il faut :
     app.get("/api/wilders", WildersController.getAllWilders);
 ```
 
-  On définit une query en API GraphQL où la fonction getAllWilders du WildersController sera appelée pour récupérer tous les 'wilders'.
+  On définit une query en API GraphQL où la fonction getAllWilders du WildersController sera appelée pour récupérer tous les 'wilders' :
 
 ```javascript
     @Query(() => [Wilder])
