@@ -99,10 +99,8 @@ Description : Utilisation de javascript pour créer des composants du design sys
 
 [Developer mozilla](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 - Documentation javascript
-
 [JavaScript Reference](https://devdocs.io/javascript/)
 - Documentation javascript sur les méthodes, fonctions...
-
 [w3schools](https://www.w3schools.com/jsref/default.asp)
 - Exemples javascript
 
