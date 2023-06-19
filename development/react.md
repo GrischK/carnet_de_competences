@@ -69,13 +69,13 @@
   </div>
   );
   };
+  
+  export default ExampleComponent;
 ```
 
-export default ExampleComponent;
 ### Utilisation dans un projet ✔️
 
 [Projet Mapado](https://github.com/WildCodeSchool/2209-wns-adleman-mapado)
-
 Description : Projet de soutenance au Titre de Concepteur Développeur d'Applications
 
 ### Utilisation en production si applicable ❌
@@ -102,5 +102,5 @@ Documentation officielle de React
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai écrit un [tutoriel]() ❌ 
+- J'ai fait une [présentation]() ❌ 

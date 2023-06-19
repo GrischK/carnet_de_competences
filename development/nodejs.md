@@ -150,5 +150,5 @@ Description : Création d'un 'proof of concept' (POC) avec nest.js.
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel]() ❌
+- J'ai fait une [présentation]() ❌ 
