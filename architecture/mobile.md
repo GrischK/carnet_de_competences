@@ -15,6 +15,7 @@
   Les applications natives sont spécifiquement développées pour une plateforme donnée (iOs, Android), et utilisent les langages et outils natifs. Elles offrent les meilleures performances et un accès complet aux fonctionnalités du périphérique. Toutefois, elles nécessitent un développement spécifique pour chaque plateforme.
 
 - le fonctionnement d'une app React Native, ce qui sera en réalité produit et installé sur le téléphone de mes utilisateur·rices, comment le JS arrive à communiquer avec le natif ✔️
+
   Une application native est compilée dans le langage de la plateforme cible. 
   Lors de la compilation de l'application, le code JavaScript est inclus avec le runtime React Native dans un package d'installation. Ce package est installé sur le téléphone de l'utilisateur. Au lancement de l'application, le runtime React Native charge le code JavaScript et l'exécute.
 
@@ -53,8 +54,9 @@
 ## 🌐 J'utilise des ressources
 
 ### Titre
-[lien dev mobile](https://docs.google.com/presentation/d/1mQMP_jWgBJNzeIWuRZCt4PPlKZKkJ0nKheGggnwnVKg/edit#slide=id.g701c29d7f0_0_121)
-[lien technologies](https://docs.google.com/presentation/d/1hSXdRjSQa7CaN54LZMOaL8V0OAHo7reY7YapZ4bt-Tc/edit#slide=id.g703a50c54d_0_0)
+[cours dev mobile](https://docs.google.com/presentation/d/1mQMP_jWgBJNzeIWuRZCt4PPlKZKkJ0nKheGggnwnVKg/edit#slide=id.g701c29d7f0_0_121)
+
+[cours technologies](https://docs.google.com/presentation/d/1hSXdRjSQa7CaN54LZMOaL8V0OAHo7reY7YapZ4bt-Tc/edit#slide=id.g703a50c54d_0_0)
 - Cours Wild Code School
 
 ## 🚧 Je franchis les obstacles
