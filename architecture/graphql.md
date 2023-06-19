@@ -89,7 +89,8 @@ Description :
 
 ## 🌐 J'utilise des ressources
 
-https://graphql.org/learn/queries/
+- [graphQL](https://graphql.org/learn/queries/)
+  Documentation officielle de GraphQL
 
 ### Point de blocage ✔️
 
