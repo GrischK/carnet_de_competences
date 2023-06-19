@@ -122,10 +122,11 @@ Description : Utilisation de typescript dans différents projets professionnels
 
 ### Titre
 
-[Typescriptlang](https://www.typescriptlang.org/)
-- Documentation officiel de typescript
-[openclassroom](https://openclassrooms.com/fr/courses/8039116-decouvrez-typescript)
-- Cours en ligne sur TypeScript
+- [Typescriptlang](https://www.typescriptlang.org/)
+Documentation officiel de typescript
+
+- [openclassroom](https://openclassrooms.com/fr/courses/8039116-decouvrez-typescript)
+Cours en ligne sur TypeScript
 
 ## 🚧 Je franchis les obstacles
 

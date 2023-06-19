@@ -17,7 +17,7 @@ Cependant ,il n'est pas nécessaire de déclarer le type d'une variable avant de
   Ensemble de normes qui définissent les standards du langage Javascript. La dernière version majeure est ES6. Chaque nouvelle version apporte des nouvelles fonctionnalités, mots clé ou structures.
 Exemple : les variables étaient déclarées préalablement avec le mot clé 'var'. De nouvelles implémentations dans les normes javascript enrichissent la façon de déclarer une variable, avec 'let' et 'const'.
 
-  - l'utilisation de l'`asynchrone` ✔️
+- l'utilisation de l'`asynchrone` ✔️
 
   La programmation asynchrone implique que l'exécution du code n'attend pas d'une fonction qu'elle délivre sa réponse avant d'exécuter la suite du code. En effet, javascript s'exécute de manière synchrone, ce qui signifie que chaque ligne de code est exécutée dans l'ordre et que l'exécution attend la fin d'une opération avant de passer à la suivante.
 L'asynchronisme est donc la capacité du langage à effectuer des opérations sans bloquer l'exécution du reste du code.
@@ -97,16 +97,21 @@ Description : Utilisation de javascript pour créer des composants du design sys
 
 ### Titre
 
-[Developer mozilla](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-- Documentation javascript
-[JavaScript Reference](https://devdocs.io/javascript/)
-- Documentation javascript sur les méthodes, fonctions...
-[w3schools](https://www.w3schools.com/jsref/default.asp)
-- Exemples javascript
+- [Developer mozilla](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+Documentation javascript
+
+- [JavaScript Reference](https://devdocs.io/javascript/)
+Documentation javascript sur les méthodes, fonctions...
+
+- [w3schools](https://www.w3schools.com/jsref/default.asp)
+Exemples javascript
 
 ## 🚧 Je franchis les obstacles
 
 ### Point de blocage ✔️
 
 ## 📽️ J'en fais la démonstration
+
+- J'ai écrit un [tutoriel](...) ❌
+- J'ai fait une [présentation](...) ❌ 
 

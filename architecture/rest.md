@@ -116,13 +116,19 @@ Description : Projet de soutenance pour le Titre de Développeur Web et Web Mobi
 
 - [developer mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
   Documentation de Developper Mozilla
+
 - [tutoriel](https://www.digitalocean.com/community/tutorials/build-a-restful-api-using-node-and-express-4)
   Tutoriel pour développer une API rest avec Node et Express
+
 - [express](https://expressjs.com/fr/starter/installing.html)
   Documentation d'Express
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ️
+### Point de blocage ️ ✔️
 
 ## 📽️ J'en fais la démonstration
+
+- J'ai écrit un [tutoriel](...) ❌
+- J'ai fait une [présentation](...) ❌ 
+

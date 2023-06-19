@@ -54,14 +54,19 @@
 ## 🌐 J'utilise des ressources
 
 ### Titre
+
 - [cours dev mobile](https://docs.google.com/presentation/d/1mQMP_jWgBJNzeIWuRZCt4PPlKZKkJ0nKheGggnwnVKg/edit#slide=id.g701c29d7f0_0_121)
   Cours Wild Code School
+
 - [cours technologies](https://docs.google.com/presentation/d/1hSXdRjSQa7CaN54LZMOaL8V0OAHo7reY7YapZ4bt-Tc/edit#slide=id.g703a50c54d_0_0)
   Cours Wild Code School
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage 
+### Point de blocage ✔️
 
 ## 📽️ J'en fais la démonstration
+
+- J'ai écrit un [tutoriel](...) ❌
+- J'ai fait une [présentation](...) ❌ 
 
