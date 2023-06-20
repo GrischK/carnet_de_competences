@@ -51,7 +51,7 @@
 
 - Quelles sont les 2 unités de complexité ? ✔️
 
-On peut utiliser soit la suite de Fibonnacci, ou une échelle de type S, M, L, XL.
+  On peut utiliser soit la suite de Fibonnacci, ou une échelle de type S, M, L, XL.
 
 - Qu'est-ce qu'une Definition of done ? A quoi sert elle ? ✔️
 
@@ -63,7 +63,7 @@ On peut utiliser soit la suite de Fibonnacci, ou une échelle de type S, M, L, X
 
 ### Utilisation dans un projet ✔️
 
-[screenshot du trello](../images/trello.png)
+![screenshot du trello](../images/trello.png)
 - [lien du trello](https://trello.com/b/NpnI4p3W/mapado-trello)
 Description : Trello du projet Mapado
 
