@@ -84,6 +84,7 @@ Exemple : dans une classe, 'this' fera référence à l'instance de cette classe
 ### Utilisation dans un projet ✔️
 
 - [lien github](https://github.com/GrischK/JS-Katas).
+
   Description : Katas JS
 
 ### J'ai utilisé ce langage en production ❌

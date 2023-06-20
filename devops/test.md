@@ -86,11 +86,12 @@
 ### Utilisation dans un projet ✔️
 
 - [Projet Mapado](https://github.com/WildCodeSchool/2209-wns-adleman-mapado).
+  
   Description : Projet de soutenance au Titre de Concepteur Développeur d'Applications
 
 ### Utilisation en production si applicable ❌ 
 
-### Utilisation en environnement professionnel ❌ / ✔️
+### Utilisation en environnement professionnel ✔️
 
 Description : Plusieurs tests unitaires et e2e réalisés sur les composants du Design System ou sur les POC.
 

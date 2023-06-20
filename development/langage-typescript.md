@@ -109,6 +109,7 @@
 ### Utilisation dans un projet ✔️
 
 - [Portfolio perso](https://github.com/GrischK/portfolio_animated).
+
   Description : Portfolio en cours de développement utilisant TypeScript
 
 ### Utilisation en production si applicable ❌

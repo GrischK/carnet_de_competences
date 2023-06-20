@@ -71,6 +71,7 @@ networks:  # Définition des réseaux
 ### Utilisation dans un projet ✔️
 
 - [Projet Mapado](https://github.com/WildCodeSchool/2209-wns-adleman-mapado).
+
   Description : Projet de soutenance au Titre de Concepteur Développeur d'Applications
 
 ### Utilisation en production si applicable ❌ 
@@ -85,6 +86,7 @@ Description : Utilisation de Docker sur différents projets professionnels, et d
 
 - [Site officiel Docker](https://docs.docker.com/get-started/02_our_app/).
   Documentation pour créer une image Docker
+
 - [Article sur Docker](https://datascientest.com/docker-guide-complet).
   Guide complet sur Docker
 

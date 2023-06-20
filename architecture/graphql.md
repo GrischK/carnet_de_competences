@@ -78,6 +78,7 @@
 ### Utilisation dans un projet ✔️
 
 - [Lien github](https://github.com/WildCodeSchool/2209-wns-adleman-mapado).
+
   Description : Projet de soutenance du titre professionnel Concepteur Développeur d'Application
 
 ### Utilisation en production si applicable ❌

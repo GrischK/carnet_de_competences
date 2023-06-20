@@ -69,6 +69,7 @@ jobs:
 ### Utilisation dans un projet ✔️
 
 - [Projet Mapado](https://github.com/WildCodeSchool/2209-wns-adleman-mapado).
+
   Description : Projet de soutenance au Titre de Concepteur Développeur d'Applications
 
 ### Utilisation en production si applicable ❌
@@ -81,6 +82,7 @@ jobs:
 
 - [Site officiel Github](https://docs.github.com/fr/actions).
   Documentation GitHub
+
 - [Article Red Hat](https://www.redhat.com/fr/topics/devops/what-is-ci-cd).
   Article complet expliquant les principes de la CI/CD
 

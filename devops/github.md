@@ -39,6 +39,7 @@
 ### Utilisation dans un projet ✔️
 
 - [Projet Mapado](https://github.com/WildCodeSchool/2209-wns-adleman-mapado).
+
   Description : Projet de soutenance au Titre de Concepteur Développeur d'Applications
 
 ### Utilisation en production si applicable ✔️
@@ -53,8 +54,10 @@ Description : Utilisation quotidienne sur tous les projets
 
 - [Commandes Git](https://git-scm.com/docs/git).
   Liste des commandes git  
+
 - [MDN](https://developer.mozilla.org/fr/docs/Learn/Common_questions/Tools_and_setup/Using_GitHub_pages).
   Ressources MDN sur Github 
+
 - [Exercice GitHub](https://learngitbranching.js.org/?locale=fr_FR).
   Exercice Github pour appréhender les branches
 

@@ -127,6 +127,7 @@ Pour utiliser nodemon par exemple, il faut :
 ### Utilisation dans un projet ✔️
 
 - [Projet Mapado](https://github.com/WildCodeSchool/2209-wns-adleman-mapado).
+
   Description : CRUD pour les villes, les POI, les catégories et les utilisateurs
 
 ### Utilisation en production si applicable ❌
