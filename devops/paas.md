@@ -25,7 +25,7 @@ Description :
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environnement professionnel ❌ / ✔️
 
 Description :
 
@@ -52,5 +52,5 @@ Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai écrit un [tutoriel]() ❌
+- J'ai fait une [présentation]() ❌ 

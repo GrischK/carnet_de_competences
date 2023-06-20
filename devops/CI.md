@@ -17,7 +17,7 @@
 
 - la mise en place d'une github action ✔️
 
-  GitHub Actions est une fonctionnalité intégrée à GitHub qui consiste à créer un flux de travail automatisé, déclenché par des événements spécifiques tels que les Pull Request (PR), pour exécuter par exemple des tests.
+  Github action est une fonctionnalité intégrée à GitHub qui consiste à créer un flux de travail automatisé, déclenché par des événements spécifiques tels que les Pull Request (PR), pour exécuter par exemple des tests.
 
 ## 💻 J'utilise
 
