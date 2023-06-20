@@ -6,49 +6,35 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- ce que c'est ❌ / ✔️
-- comment deployer une application sur une PaaS ❌ / ✔️
+- ce que c'est ✔️
+
+  Le Platform as a Service (PaaS) est un modèle de cloud computing qui fournit aux développeurs une plateforme complète pour le déploiement, le développement et la gestion d'applications. Il permet de se concentrer sur le développement d'applications sans avoir à gérer l'infrastructure, offrant ainsi une plus grande agilité et une réduction des tâches opérationnelles.
+
+- comment deployer une application sur une PaaS ✔️
+
+  Le choix du fournisseur de PaaS dépendra des besoins de notre projet, du langage de programmation pris en charge, des coûts, de l'évolutivité. Une configuration est nécessaire (dépendances...). Le fournisseur PaaS propose généralement des outils pour déployer l'application. Plusieurs plateformes PaaS existent, telles que Google App Engine, Microsoft Azure, AWS Elastic Beanstalk, Salesforce App Cloud, Heroku, Red Hat OpenShift
+  ...
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ❌ 
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ❌ 
 
-[lien github](...)
+### Utilisation en production si applicable ❌
 
-Description :
-
-### Utilisation en production si applicable❌ / ✔️
-
-[lien du projet](...)
-
-Description :
-
-### Utilisation en environnement professionnel ❌ / ✔️
-
-Description :
+### Utilisation en environnement professionnel ❌
 
 ## 🌐 J'utilise des ressources
 
 ### Titre
 
-- lien
-- description
+- [site officiel Oracle](https://www.oracle.com/fr/cloud/definition-paas/)
+  Documentation Oracle expliquant le PaaS
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
-
-Description:
-
-Plan d'action : (à valider par le formateur)
-
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
-
-Résolution :
+### Point de blocage ✔️
 
 ## 📽️ J'en fais la démonstration
 

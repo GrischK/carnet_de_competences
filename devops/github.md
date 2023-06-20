@@ -31,6 +31,7 @@
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ✔️
+- Capture d'écran du Git Version Control dans PhPStorm pour aider à la gestion des branches, rebase, update, PR...
 ![screenshot du Version Control Github dans PhPStorm](../images/terminal_github.png)
 
 - [Lien de mon Github](https://github.com/GrischK)
