@@ -102,13 +102,12 @@ const wildersController: IController = {
 
 ### Utilisation dans un projet ✔️
 
-[lien github](https://github.com/WildCodeSchool/alrj/blob/develop/backend/src/router.js)
+- [lien github](https://github.com/WildCodeSchool/alrj/blob/develop/backend/src/router.js)
+  Description : Projet de soutenance pour le Titre de Développeur Web et Web Mobile
 
-Description : Projet de soutenance pour le Titre de Développeur Web et Web Mobile
+### Utilisation en production si applicable ❌
 
-### Utilisation en production si applicable❌
-
-### Utilisation en environement professionnel ❌ 
+### Utilisation en environnement professionnel ❌ 
 
 ## 🌐 J'utilise des ressources
 
@@ -129,6 +128,6 @@ Description : Projet de soutenance pour le Titre de Développeur Web et Web Mobi
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai écrit un [tutoriel](...) ❌
-- J'ai fait une [présentation](...) ❌ 
+- J'ai écrit un [tutoriel]() ❌
+- J'ai fait une [présentation]() ❌ 
 

@@ -67,6 +67,6 @@
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai écrit un [tutoriel](...) ❌
-- J'ai fait une [présentation](...) ❌ 
+- J'ai écrit un [tutoriel]() ❌
+- J'ai fait une [présentation]() ❌ 
 

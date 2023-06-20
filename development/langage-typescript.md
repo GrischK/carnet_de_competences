@@ -6,7 +6,7 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'intéret de TypeScript dans l'IDE ✔️
+- l'intérêt de TypeScript dans l'IDE ✔️
 
   Permet d'ajouter un typage fort sur les variables. Cela permet de détecter les erreurs de compilation et de faciliter
   la résolution de bugs.
@@ -108,9 +108,8 @@
 
 ### Utilisation dans un projet ✔️
 
-[Portfolio perso](https://github.com/GrischK/portfolio_animated)
-
-Description : Portfolio en cours de développement
+- [Portfolio perso](https://github.com/GrischK/portfolio_animated)
+  Description : Portfolio en cours de développement
 
 ### Utilisation en production si applicable ❌
 
@@ -123,10 +122,10 @@ Description : Utilisation de typescript dans différents projets professionnels
 ### Titre
 
 - [Typescriptlang](https://www.typescriptlang.org/)
-Documentation officiel de typescript
+  Documentation officiel de typescript
 
 - [openclassroom](https://openclassrooms.com/fr/courses/8039116-decouvrez-typescript)
-Cours en ligne sur TypeScript
+  Cours en ligne sur TypeScript
 
 ## 🚧 Je franchis les obstacles
 
@@ -134,5 +133,5 @@ Cours en ligne sur TypeScript
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai écrit un [tutoriel](...) ❌ 
-- J'ai fait une [présentation](...) ❌ 
+- J'ai écrit un [tutoriel]() ❌ 
+- J'ai fait une [présentation]() ❌ 

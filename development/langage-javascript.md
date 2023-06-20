@@ -83,13 +83,12 @@ Exemple : dans une classe, 'this' fera référence à l'instance de cette classe
 
 ### Utilisation dans un projet ✔️
 
-[lien github](https://github.com/GrischK/JS-Katas)
-
-Description : Katas JS
+- [lien github](https://github.com/GrischK/JS-Katas)
+  Description : Katas JS
 
 ### J'ai utilisé ce langage en production ❌
 
-### J'ai utilisé ce langage en environement professionnel ✔️
+### J'ai utilisé ce langage en environnement professionnel ✔️
 
 Description : Utilisation de javascript pour créer des composants du design system
 
@@ -98,13 +97,13 @@ Description : Utilisation de javascript pour créer des composants du design sys
 ### Titre
 
 - [Developer mozilla](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-Documentation javascript
+  Documentation javascript
 
 - [JavaScript Reference](https://devdocs.io/javascript/)
-Documentation javascript sur les méthodes, fonctions...
+  Documentation javascript sur les méthodes, fonctions...
 
 - [w3schools](https://www.w3schools.com/jsref/default.asp)
-Exemples javascript
+  Exemples javascript
 
 ## 🚧 Je franchis les obstacles
 
@@ -112,6 +111,6 @@ Exemples javascript
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai écrit un [tutoriel](...) ❌
-- J'ai fait une [présentation](...) ❌ 
+- J'ai écrit un [tutoriel]() ❌
+- J'ai fait une [présentation]() ❌ 
 

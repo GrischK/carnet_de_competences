@@ -98,7 +98,7 @@ Pour utiliser nodemon par exemple, il faut :
 
   On définit une query en API GraphQL où la fonction getAllWilders du WildersController sera appelée pour récupérer tous les 'wilders' :
 
-```javascript
+```typescript
     @Query(() => [Wilder])
     async getAllWilders(): Promise<Wilder[]> {    
     return await WildersController.getAllWilders();
@@ -126,13 +126,12 @@ Pour utiliser nodemon par exemple, il faut :
 
 ### Utilisation dans un projet ✔️
 
-[Projet Mapado](https://github.com/WildCodeSchool/2209-wns-adleman-mapado)
-
-Description : CRUD pour les villes, les POI, les catégories et les utilisateurs
+- [Projet Mapado](https://github.com/WildCodeSchool/2209-wns-adleman-mapado)
+  Description : CRUD pour les villes, les POI, les catégories et les utilisateurs
 
 ### Utilisation en production si applicable ❌
 
-### Utilisation en environement professionnel ✔️
+### Utilisation en environnement professionnel ✔️
 
 Description : Création d'un 'proof of concept' (POC) avec nest.js. 
 
@@ -150,5 +149,5 @@ Description : Création d'un 'proof of concept' (POC) avec nest.js.
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel]() ❌
+- J'ai écrit un [tutoriel]() ❌
 - J'ai fait une [présentation]() ❌ 

@@ -52,7 +52,7 @@
 
 ### Utilisation dans un projet ✔️
 
-```javascript
+```typescript
   // Seuls les utilisateurs ayant le rôle "cityAdmin" sont autorisés à effectuer cette opération.
   @Authorized<
   Role > (["cityAdmin"])
@@ -72,7 +72,7 @@
 }
 ```
 
-```javascript
+```typescript
   @Mutation(() => String)
   async login(
       @Arg("data"){ email, password }:UserInput,
@@ -104,10 +104,10 @@
   
   return token; // Renvoie le token JWT généré
 }
-  ```
+```
 
-[Projet Mapado](https://github.com/WildCodeSchool/2209-wns-adleman-mapado)
-Description : Projet de soutenance au Titre de Concepteur Développeur d'Applications
+- [Projet Mapado](https://github.com/WildCodeSchool/2209-wns-adleman-mapado)
+  Description : Projet de soutenance au Titre de Concepteur Développeur d'Applications
 
 ### Utilisation en production si applicable ❌
 

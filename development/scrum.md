@@ -41,7 +41,7 @@
 
   C'est la liste ordonnée de toutes les fonctionnalités, améliorations et tâches à réaliser pour un produit, priorisées en fonction de la valeur qu'elles apportent. Il est utilisé lors des sprint planning pour sélectionner les éléments à inclure dans le prochain sprint.
 
-- Qu'est ce qu'un Sprint ? Quel est l'intérêt ? ✔️
+- Qu'est-ce qu'un Sprint ? Quel est l'intérêt ? ✔️
 
   Le sprint regroupe un ensemble de tâches du backlog à traiter en priorité. Il permet une livraison itérative de fonctionnalités, une meilleure planification, une inspection et une adaptation continues, ainsi qu'une transparence et une collaboration accrues entre l'équipe de développement et les parties prenantes.
 
@@ -92,5 +92,5 @@ Description : Utilisation de Jira
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel]() ❌ 
+- J'ai écrit un [tutoriel]() ❌ 
 - J'ai fait une [présentation]() ❌ 
