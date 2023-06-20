@@ -10,7 +10,7 @@
 
   * Différences :
     1. Plateforme cible : React est destiné à être exécuté dans un navigateur web, tandis que le code React Native est utilisé pour créer des applications mobiles natives pour iOS et Android.
-    2. Composants : Les composants de React Native sont spécifiques aux plates-formes mobiles et utilisent des éléments d'interface utilisateur natifs tels que <View>, <Text>, <Image>, plutôt que les éléments HTML de React.
+    2. Composants : Les composants de React Native sont spécifiques aux plates-formes mobiles et utilisent des éléments d'interface utilisateur natifs tels que ```<View>```, ```<Text>```, ```<Image>```, plutôt que les éléments HTML de React.
     3. Styles : En React, les styles sont généralement définis à l'aide de CSS tandis qu'en React Native, les styles sont définis via une syntaxe similaire à CSS mais adaptée aux styles natifs des plateformes mobiles.
     4. Interaction avec les périphériques : En React Native, on peut accéder aux fonctionnalités natives des périphériques telles que la caméra, les contacts, le GPS, en utilisant des API spécifiques à chaque plateforme. En React, on doit généralement utiliser des API web standardisées.
 
@@ -47,7 +47,7 @@
 
 - les principales briques qui composent react native (core components) ✔️
 
-  Les Core Components (Composants de base) de React Native comprennent un ensemble de composants d'interface utilisateur pré-construits, qui correspondent aux éléments d'interface utilisateur natifs des plateformes iOS et Android. Parmi ces composants, on retrouve des éléments tels que <View>, <Text>, <Image>, <Button>, <ScrollView> qui remplacent les éléments HTML de React.
+  Les Core Components (Composants de base) de React Native comprennent un ensemble de composants d'interface utilisateur pré-construits, qui correspondent aux éléments d'interface utilisateur natifs des plateformes iOS et Android. Parmi ces composants, on retrouve des éléments tels que ```<View>```, ```<Text>```, ```<Image>```, ```<Button>```, ```<ScrollView>``` qui remplacent les éléments HTML de React.
 
 - comment écrire du style en react native ✔️
 
