@@ -144,7 +144,7 @@ export default function CitiesScreen({navigation}) {
 
 ### Utilisation dans un projet ✔️
 
-- [Projet Mapado](https://github.com/WildCodeSchool/2209-wns-adleman-mapado)
+- [Projet Mapado](https://github.com/WildCodeSchool/2209-wns-adleman-mapado).
   Description : Projet de soutenance au Titre de Concepteur Développeur d'Applications
 
 ### Utilisation en production si applicable ❌
@@ -155,13 +155,13 @@ export default function CitiesScreen({navigation}) {
 
 ### Titre
 
-- [Article freecodecamp](https://www.freecodecamp.org/news/react-js-vs-react-native-whats-the-difference/#:~:text=Here's%20the%20main%20difference%20between,%2C%20cross%2Dplatform%20mobile%20applications)
+- [Article freeCodeCamp](https://www.freecodecamp.org/news/react-js-vs-react-native-whats-the-difference/#:~:text=Here's%20the%20main%20difference%20between,%2C%20cross%2Dplatform%20mobile%20applications).
   Présentation des différences entre React et React Native
 
-- [Documentation React Native](https://reactnative.dev/docs/getting-started)
-  Documentation de React Native
+- [Site officiel React Native](https://reactnative.dev/docs/getting-started).
+  Documentation de React Native et tutoriel
 
-- [Documentation d'Expo](https://docs.expo.dev/)
+- [Site officiel Expo](https://docs.expo.dev/).
   Documentation d'Expo
 
 ## 🚧 Je franchis les obstacles

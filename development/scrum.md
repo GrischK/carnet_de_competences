@@ -64,7 +64,7 @@
 ### Utilisation dans un projet ✔️
 
 ![screenshot du trello](../images/trello.png)
-- [Lien du trello](https://trello.com/b/NpnI4p3W/mapado-trello)
+- [Lien du trello](https://trello.com/b/NpnI4p3W/mapado-trello).
   Trello du projet Mapado
 
 ### Utilisation en production si applicable ❌ 
@@ -77,13 +77,13 @@ Description : Utilisation de Jira
 
 ### Titre
 
-- [The Scrum Guide](https://www.scrum.org/resources/scrum-guide)
+- [The Scrum Guide](https://www.scrum.org/resources/scrum-guide).
   Ressources SCRUM
 
-- [Méthode SCRUM](https://ignition-program.com/tuto/la-methode-scrum-pour-les-nuls)
+- [Méthode SCRUM](https://ignition-program.com/tuto/la-methode-scrum-pour-les-nuls).
   Résumé du SCRUM
 
-- [Méthode Agile](https://asana.com/fr/resources/agile-methodology)
+- [Méthode Agile](https://asana.com/fr/resources/agile-methodology).
   Résumé de la méthode Agile
 
 ## 🚧 Je franchis les obstacles

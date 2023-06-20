@@ -108,8 +108,8 @@
 
 ### Utilisation dans un projet ✔️
 
-- [Portfolio perso](https://github.com/GrischK/portfolio_animated)
-  Description : Portfolio en cours de développement
+- [Portfolio perso](https://github.com/GrischK/portfolio_animated).
+  Description : Portfolio en cours de développement utilisant TypeScript
 
 ### Utilisation en production si applicable ❌
 
@@ -121,10 +121,10 @@ Description : Utilisation de typescript dans différents projets professionnels
 
 ### Titre
 
-- [Typescriptlang](https://www.typescriptlang.org/)
+- [Typescriptlang](https://www.typescriptlang.org/).
   Documentation officiel de typescript
 
-- [openclassroom](https://openclassrooms.com/fr/courses/8039116-decouvrez-typescript)
+- [open-classroom](https://openclassrooms.com/fr/courses/8039116-decouvrez-typescript).
   Cours en ligne sur TypeScript
 
 ## 🚧 Je franchis les obstacles

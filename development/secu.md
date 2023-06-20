@@ -106,7 +106,7 @@
 }
 ```
 
-- [Projet Mapado](https://github.com/WildCodeSchool/2209-wns-adleman-mapado)
+- [Projet Mapado](https://github.com/WildCodeSchool/2209-wns-adleman-mapado).
   Description : Projet de soutenance au Titre de Concepteur Développeur d'Applications
 
 ### Utilisation en production si applicable ❌
@@ -117,14 +117,12 @@
 
 ### Titre
 
-- [site OWASP](https://owasp.org/)
-  Site officiel OWASP
-- [site JWT](https://jwt.io/introduction)
-  Introduction au Tokens JWT
-- [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
-  MDN HTTP Cookies
-- [Openclassroom](https://openclassrooms.com/fr/courses/7727176-realisez-un-test-dintrusion-web/7917166-attaquez-la-base-de-donnees-avec-les-injections-sql
-  )
+- [Site officiel OWASP](https://owasp.org/).
+- [Site officiel JWT](https://jwt.io/introduction).
+  Introduction aux Tokens JWT
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies).
+  Ressource MDN sur les HTTP Cookies
+- [Open-classroom](https://openclassrooms.com/fr/courses/7727176-realisez-un-test-dintrusion-web/7917166-attaquez-la-base-de-donnees-avec-les-injections-sql).
   Cours sur les injections SQL
 
 ## 🚧 Je franchis les obstacles

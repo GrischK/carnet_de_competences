@@ -77,7 +77,7 @@
 
 ### Utilisation dans un projet ✔️
 
-- [lien github](https://github.com/WildCodeSchool/2209-wns-adleman-mapado)
+- [Lien github](https://github.com/WildCodeSchool/2209-wns-adleman-mapado).
   Description : Projet de soutenance du titre professionnel Concepteur Développeur d'Application
 
 ### Utilisation en production si applicable ❌
@@ -88,12 +88,12 @@
 
 ### Titre
 
-- [graphQL](https://graphql.org/learn/queries/)
+- [Site officiel graphQL](https://graphql.org/learn/queries/).
   Documentation officielle de GraphQL
 
 ### Point de blocage ✔️
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel] ❌ ️
+- J'ai écrit un [tutoriel] ❌ ️
 - J'ai fait une [présentation] ❌ 

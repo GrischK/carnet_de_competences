@@ -126,7 +126,7 @@ Pour utiliser nodemon par exemple, il faut :
 
 ### Utilisation dans un projet ✔️
 
-- [Projet Mapado](https://github.com/WildCodeSchool/2209-wns-adleman-mapado)
+- [Projet Mapado](https://github.com/WildCodeSchool/2209-wns-adleman-mapado).
   Description : CRUD pour les villes, les POI, les catégories et les utilisateurs
 
 ### Utilisation en production si applicable ❌
@@ -139,9 +139,9 @@ Description : Création d'un 'proof of concept' (POC) avec nest.js.
 
 ### Titre
 
-- [Documentation node.js](https://nodejs.org/en/docs)
-- [Documentation typeorm](https://typeorm.io/)
-- [Documentation nest.js](https://docs.nestjs.com/)
+- [Site officiel node.js](https://nodejs.org/en/docs)
+- [Site officiel typeorm](https://typeorm.io/)
+- [Site officiel nest.js](https://docs.nestjs.com/)
 
 ## 🚧 Je franchis les obstacles
 

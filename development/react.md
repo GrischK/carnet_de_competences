@@ -75,7 +75,7 @@
 
 ### Utilisation dans un projet ✔️
 
-- [Projet Mapado](https://github.com/WildCodeSchool/2209-wns-adleman-mapado)
+- [Projet Mapado](https://github.com/WildCodeSchool/2209-wns-adleman-mapado).
   Description : Projet de soutenance au Titre de Concepteur Développeur d'Applications
 
 ### Utilisation en production si applicable ❌
@@ -88,13 +88,13 @@ Description : Utilisation dans différents projets professionnels comme la créa
 
 ### Titre
 
-- [Documentation React](https://fr.legacy.reactjs.org/docs/getting-started.html)
-  Documentation officielle de React
+- [Site officiel React](https://fr.legacy.reactjs.org/docs/getting-started.html).
+  Documentation et tutoriel React
 
 - [Documentation React](https://react.dev/)
 
-- [Documentation Developer Mozilla](https://developer.mozilla.org/fr/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
-  Documentation MDN
+- [MDN](https://developer.mozilla.org/fr/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started).
+  Ressource MDN sur les principes de React
 
 ## 🚧 Je franchis les obstacles
 

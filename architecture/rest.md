@@ -102,7 +102,7 @@ const wildersController: IController = {
 
 ### Utilisation dans un projet ✔️
 
-- [lien github](https://github.com/WildCodeSchool/alrj/blob/develop/backend/src/router.js)
+- [lien github](https://github.com/WildCodeSchool/alrj/blob/develop/backend/src/router.js).
   Description : Projet de soutenance pour le Titre de Développeur Web et Web Mobile
 
 ### Utilisation en production si applicable ❌
@@ -113,14 +113,14 @@ const wildersController: IController = {
 
 ### Titre
 
-- [developer mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
-  Documentation de Developper Mozilla
+- [MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction).
+  Ressource MDN sur node & express 
 
-- [tutoriel](https://www.digitalocean.com/community/tutorials/build-a-restful-api-using-node-and-express-4)
+- [Tutoriel](https://www.digitalocean.com/community/tutorials/build-a-restful-api-using-node-and-express-4).
   Tutoriel pour développer une API rest avec Node et Express
 
-- [express](https://expressjs.com/fr/starter/installing.html)
-  Documentation d'Express
+- [Site officiel express](https://expressjs.com/fr/starter/installing.html).
+  Documentation d'Express et tutoriel
 
 ## 🚧 Je franchis les obstacles
 
