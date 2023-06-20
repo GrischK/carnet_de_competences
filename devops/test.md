@@ -8,7 +8,7 @@
 
 - les tests unitaires ❌ / ✔️
 - les mocks ❌ / ✔️
-- les tests d'integration ❌ / ✔️
+- les tests d'intégration ❌ / ✔️
 - les tests de bout en bout (end to end) ❌ / ✔️
 - le TDD ❌ / ✔️
 - les tests par snapshot ❌ / ✔️
@@ -56,5 +56,5 @@ Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
+- J'ai écrit un [tutoriel](...) ❌ / ✔️
 - J'ai fait une [présentation](...) ❌ / ✔️

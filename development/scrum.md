@@ -53,7 +53,7 @@
 
   On peut utiliser soit la suite de Fibonnacci, ou une échelle de type S, M, L, XL.
 
-- Qu'est-ce qu'une Definition of done ? A quoi sert elle ? ✔️
+- Qu'est-ce qu'une Definition of done ? À quoi sert-elle ? ✔️
 
   On définit ce qui attendu lors de la réalisation d'une fonctionnalité, avec un ensemble de tâches. Cela permet de visualiser l'état de l'avancement.
 
@@ -64,8 +64,8 @@
 ### Utilisation dans un projet ✔️
 
 ![screenshot du trello](../images/trello.png)
-- [lien du trello](https://trello.com/b/NpnI4p3W/mapado-trello)
-Description : Trello du projet Mapado
+- [Lien du trello](https://trello.com/b/NpnI4p3W/mapado-trello)
+  Trello du projet Mapado
 
 ### Utilisation en production si applicable ❌ 
 
